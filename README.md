@@ -44,9 +44,6 @@ Performance is regime-specific, with positive results only during the 2019–202
 ![Equity Curve & Drawdown](artifacts/longshort_vt_eq_dd.png)  
 *Adding shorts worsens performance: higher drawdowns, no persistent edge.*
 
-![Monthly Returns](artifacts/longshort_vt_monthly.png)  
-*Chaotic distribution of returns; no robustness across regimes.*
-
 ---
 
 ## Key Metrics (with 10% Vol Targeting)
@@ -66,7 +63,6 @@ CSV outputs:
 ## Conclusion
 
 This is a **negative finding**: the EMA/RSI strategy cannot be considered robust or tradable on TSLA.  
-Still, the project demonstrates a disciplined research workflow: proper data hygiene, leak-free backtest, realistic costs, walk-forward splits, and risk-aware metrics.
 
 ---
 
