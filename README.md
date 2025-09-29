@@ -17,4 +17,14 @@ the edge fails out of sample. It only worked during the 2019–2021 bull market 
 **Conclusion:** Regime-specific overfit → no persistent edge.
 
 ## Files
-- `tsla_ema_rsi_negative_finding.ipynb`: full code + plots  
+- `tsla_ema_rsi_negative_finding.ipynb`: full code + plots
+
+- ## Artifacts
+
+Key plots:
+
+![Equity Curve — Long-only (VT)](artifacts/long_only_vt_eq_dd.png)
+
+CSV outputs:
+
+- [bt_long_only_vt.csv](artifacts/bt_long_only_vt.csv)
