@@ -1,4 +1,4 @@
-# TSLA EMA/RSI Backtest — A Negative Finding
+# TSLA EMA/RSI Backtest - A Negative Finding
 
 **Research Question**  
 Do “industry-standard” technical indicators EMA crossovers plus RSI(14) filters produce a tradable daily strategy on TSLA (2012-2025)?  
